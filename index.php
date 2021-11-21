@@ -111,7 +111,7 @@ $conso = $minutes / 10000;
             <p class ="dest">INTERVAL TIME</p>
 
 
-            <div class = "infoCarbu">
+            <div>
                 <label for="carbu"><b>QUANTITE DE CARBURANT NECESSAIRE</b></label>
                 <input class="affichageCarbu" type="text" id="CARBU" value = "<?php echo $conso; ?>" name="CARBU" >
             </div>
